@@ -1,7 +1,6 @@
 # IOT-practicals
 Practicals 
-
-<h1>Blinking of led pattern</h1>
+<h1>1) Blinking of led pattern</h1>
 <p>Raspberry pi BCM board</p>
 <img src="https://www.raspberrypi-spy.co.uk/wp-content/uploads/2012/06/Raspberry-Pi-GPIO-Header-with-Photo.png" >
 <p>Circuit Diagram</p>
@@ -19,3 +18,35 @@ print "LED off"
 GPIO.output(18,GPIO.LOW)
 </pre>
 
+<hr/>
+<h1>2) Display time over 4 digit 7 segmet display</h1>
+link
+<a href=""></a>
+<hr/>
+<h1>3) Home Automation using </h1>
+link
+<a href=""></a>
+<hr/>
+<h1>4) Telegram controlling </h1>
+link
+<a href="https://www.hackster.io/Salmanfarisvp/telegram-bot-with-raspberry-pi-f373da">https://www.hackster.io/Salmanfarisvp/telegram-bot-with-raspberry-pi-f373da</a>
+<hr/>
+<h1>5) Wirelesss access point </h1>
+link
+<a href="https://pimylifeup.com/raspberry-pi-wireless-access-point/">https://pimylifeup.com/raspberry-pi-wireless-access-point/</a>
+<hr/>
+<h1>6) Camera </h1>
+link
+<a href=""></a>
+<h1>7) RFID </h1>
+link
+<a href="https://pimylifeup.com/raspberry-pi-rfid-rc522/">https://pimylifeup.com/raspberry-pi-rfid-rc522/</a>
+<h1>8) GPS </h1>
+link
+<a href="https://circuitdigest.com/microcontroller-projects/raspberry-pi-3-gps-module-interfacing">https://circuitdigest.com/microcontroller-projects/raspberry-pi-3-gps-module-interfacing</a>
+<h1>9) Oscilloscope </h1>
+link
+<a href="https://circuitdigest.com/microcontroller-projects/raspberry-pi-based-oscilloscope">https://circuitdigest.com/microcontroller-projects/raspberry-pi-based-oscilloscope</a>
+<h1>10) Google assistant </h1>
+link
+<a href="https://developers.google.com/assistant/console/manage">https://developers.google.com/assistant/console/manage</a>
