@@ -24,6 +24,9 @@ link
 <a href="http://www.pibits.net/code/tm1637-7-segment-display-example-on-a-raspberry-pi.php">http://www.pibits.net/code/tm1637-7-segment-display-example-on-a-raspberry-pi.php</a>
 <hr/>
 <h1>3) Home Automation using </h1>
+circuit digram
+<a href="https://circuitdigest.com/fullimage?i=circuitdiagram_mic/Circuit-Diagram-for-IoT-controlled-Home-Automation-using-Raspberry-Pi-and-Particle-Cloud.png">https://circuitdigest.com/fullimage?i=circuitdiagram_mic/Circuit-Diagram-for-IoT-controlled-Home-Automation-using-Raspberry-Pi-and-Particle-Cloud.png</a>
+
 link
 <a href="https://www.electronicshub.org/control-a-relay-using-raspberry-pi/">https://www.electronicshub.org/control-a-relay-using-raspberry-pi/</a>
 <a href="https://www.electronicshub.org/control-a-relay-using-raspberry-pi/">https://www.electronicshub.org/control-a-relay-using-raspberry-pi/</a>
